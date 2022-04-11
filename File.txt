@@ -1,6 +1,6 @@
 This is a first line from Developer1
 <<<<<<< HEAD
-This is Second line VIM editor
+This is Second line VIM editZZZor
 This is Third line VIM editor
 =======
 This is Second line inserted from GITHUB web application
