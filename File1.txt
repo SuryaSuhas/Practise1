@@ -1,3 +1,2 @@
 This is First line from VIM
 This is First line from Web Server
-This is line inserted from Master Branch
