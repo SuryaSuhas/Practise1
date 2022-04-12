@@ -1,3 +1,0 @@
-This is First line from VIM
-Second line from VIm
-Third line
