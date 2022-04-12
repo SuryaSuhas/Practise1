@@ -1,4 +1,6 @@
 This is First line from VIm
+<<<<<<< HEAD
 This is Second line from VIM
+=======
 This is First line from Web Server
-This is Forth line from VIM
+>>>>>>> eb5b6545e66d8f9b015c7df03ced5cab1e96ed15
